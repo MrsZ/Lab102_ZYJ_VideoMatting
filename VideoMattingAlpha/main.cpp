@@ -8,7 +8,7 @@ int main(){
 	//setNumThreads(8);
 	Mat leftImage;
 	Mat disparityMap;
-	
+	Mat newMatrix;
 	string head_file_name = "TestImage3_zyj//";
 	
 	int64 t0 = getTickCount();
